@@ -19,6 +19,8 @@ public class Alimento
     private float calorias;
     
     
+    
+    
 
     /**
      * Constructor for objects of class Alimento
@@ -31,6 +33,7 @@ public class Alimento
         this.carbohidratos = carbohidratos;
         this.grasas = grasas;
         this.calorias = calorias;
+        
     }
 
     /**
